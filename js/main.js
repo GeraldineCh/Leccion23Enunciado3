@@ -16,10 +16,10 @@ borde.appendChild(arco1);
 
 var centro = document.createElement('div');
 centro.id = 'centro';
-borde.appendChild(centro);
+arco1.appendChild(centro);
 
 var arco2 = document.createElement('div');
 arco2.id = 'arco2';
-borde.appendChild(arco2);
+centro.appendChild(arco2);
 
 
