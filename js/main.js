@@ -22,4 +22,16 @@ var arco2 = document.createElement('div');
 arco2.id = 'arco2';
 centro.appendChild(arco2);
 
+var bola1 = document.createElement('div');
+bola1.id = 'bola1';
+borde.appendChild(bola1);
+
+var bola2 = document.createElement('div');
+bola2.id = 'bola2';
+borde.appendChild(bola2);
+
+var bola3 = document.createElement('div');
+bola3.id = 'bola3';
+borde.appendChild(bola3);
+
 

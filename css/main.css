@@ -44,3 +44,32 @@
     margin-left: 425px;
 }
 
+#bola1 {
+	  background-color: #fff;
+	  width: 20px;
+	  height: 20px;
+	  position: relative;
+	  border-radius: 50%;
+    left: 95px;
+    top: -210px;
+}
+
+#bola2 {
+	  background-color: #fff;
+	  width: 20px;
+	  height: 20px;
+	  position: relative;
+	  border-radius: 50%;
+	  left: 450px;
+      top: -240px;
+}
+
+#bola3 {
+	  background-color: #fff;
+	  width: 20px;
+	  height: 20px;
+	  position: relative;
+	  border-radius: 50%;
+	  left: 835px;
+      top: -55px;
+}
